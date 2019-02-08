@@ -1,6 +1,6 @@
 {
   "name": "use-socket.io-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for socket.io client, manipulate without any side effect.",
   "main": "src/index.js",
   "peerDependencies": {
@@ -8,6 +8,10 @@
     "react-dom": "^16.8.0"
   },
   "author": "@iamgyz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamgyz/use-socket.io-client"
+  },
   "license": "MIT",
   "dependencies": {
     "socket.io-client": "^2.2.0"
