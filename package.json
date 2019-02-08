@@ -1,6 +1,6 @@
 {
   "name": "use-socket.io-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React hook for socket.io client, manipulate without any side effect.",
   "main": "src/index.js",
   "scripts": {
@@ -15,6 +15,15 @@
     "type": "git",
     "url": "https://github.com/iamgyz/use-socket.io-client"
   },
+  "keywords": [
+    "socket.io",
+    "websocket",
+    "socket",
+    "react",
+    "hooks",
+    "react-hooks",
+    "useEffect"
+  ],
   "license": "MIT",
   "dependencies": {
     "socket.io-client": "^2.2.0"
