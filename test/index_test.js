@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import TestRenderer from "react-test-renderer";
-import useSocket from "../index.js";
+import useSocket from "../src/index.js";
 import { expect } from "chai";
 
 describe("Basic Test:", () => {
