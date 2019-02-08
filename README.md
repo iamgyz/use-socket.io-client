@@ -1,4 +1,5 @@
-# use-socket.io-client
+# use-socket.io-client 
+[![Build Status](https://travis-ci.org/iamgyz/use-socket.io-client.svg?branch=master)](https://travis-ci.org/iamgyz/use-socket.io-client.svg?branch=master)
 
 React(^16.8.0) hook for socket.io-client, manipulate socket.io client without any side effect.
 
